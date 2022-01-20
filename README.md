@@ -1,6 +1,7 @@
 # Rock-Paper-Scissors-Game
 Rock Paper Scissors Game.
 	You Vs Computer
+	Python Program
 ✂🚀📰
 
 Rock, Paper, Scissors (aka "Ro-Sham-Bo"; janken; "Bato, Bato, Pick"; and "Scissors, Paper, Stone") is a simple hand game with many names and variations. 
